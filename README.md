@@ -24,14 +24,8 @@
     <h3>🛠️ Languages and Tools</h3>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    </div>
-    <div>
         <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    </div>
-    <div>
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
-    </div>
-    <div>
         <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" title="React" alt="React" width="40" height="40"/>&nbsp;
     </div>
 </div>
