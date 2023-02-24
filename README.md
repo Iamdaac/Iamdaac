@@ -20,7 +20,7 @@
 
 - 🌱 I'm currently learning **React.js, Python and Web3**
 
-<div align="center">
+<div align="left">
     <h3>🛠️ Languages and Tools</h3>
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
