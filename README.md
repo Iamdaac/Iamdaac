@@ -9,11 +9,6 @@
         <img src="https://img.shields.io/twitter/follow/iamdaac?logo=Twitter&style=for-the-badge" alt="Twitter Badge">
     </a>
 </div>
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/diego-alvarado-314ba81b2/">
-        <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" alt="Linkedin Badge">
-    </a>
-</div>
 
 ---
 
