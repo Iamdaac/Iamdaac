@@ -29,6 +29,8 @@
         <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+        <img src="https://iconos8.es/icon/EzPCiQUqWWEa/oreja" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://iconos8.es/icon/UFXRpPFebwa2/logo-de-mysql" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
     </div>
 </div>
 
